@@ -6,6 +6,7 @@ header{
 	position: fixed;
 	text-align:left;
 	padding:10px;
+
 }
 header h1{
 	padding: 20px;
@@ -14,6 +15,7 @@ header h1{
 header ul a{
 	float: right;
 	padding: 20px;
+  display: inline-block;
 }
 
 a{
