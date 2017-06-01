@@ -1,3 +1,42 @@
 /*
  * Estilos reutilizables
  */
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ 	font-family: 'Fjalla One', sans-serif;
+ }
+ .container{
+  	height:700px;
+ 	background-color: #4ED792;
+ 	margin:0 auto;
+
+ }
+ .container .caja{
+ 	padding: 70px;
+ 	text-align: center;
+ }
+ .monito{
+ 	padding: 80px;
+ }
+ .titulo{
+ 	font-weight: 700;
+ 	font-size: 60px;
+ 	color:white;
+ }
+ .titulo1{
+ 	padding: 20px;
+ 	color:white;
+ 	font-size: 20px;
+ }
+ .middle{
+ 	width: 100%;
+	margin:0 auto;
+ 	height: 1000px;
+ 	padding: 50px;
+ }
+ .middle h2{
+ 	padding: 50px;
+ 	font-size: 50px;
+ 	text-align: center;
+ }
