@@ -26,8 +26,8 @@ a{
   clear:both;
 }
 [class*="col-"]{
-  min-height: 7px;
-  padding: 12px;
+  min-height: 5px;
+  padding: 5px;
   float:left;
 }
 .col-1{
@@ -44,7 +44,7 @@ a{
 }
 .col-4{
   /*(4/12)*100 */
-  width: 28.333333%;
+  width: 31.333%;
 }
 .col-5{
   /*(5/12)*100 */
@@ -52,7 +52,7 @@ a{
 }
 .col-6{
   /*(6/12)*100 */
-  width: 50%;
+  width: 48%;
 }
 .col-7{
   /*(7/12)*100 */
@@ -78,4 +78,5 @@ a{
 .img-responsive{
   max-width: 100%;
   width: 100%;
+  padding: 50px;
 }
